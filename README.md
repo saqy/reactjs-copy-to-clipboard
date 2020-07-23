@@ -11,7 +11,7 @@ npm i reactjs-copy-to-clipboard
 ```
 
 ## Usage
-Can be used in node, angular, react or vuejs projects 
+Can be used in reactjs projects like below
 ```js
 import React, {useState} from 'react';
 import CopyToClipboard from "reactjs-copy-to-clipboard";
