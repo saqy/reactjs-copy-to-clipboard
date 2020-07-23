@@ -27,12 +27,18 @@
     "clipboard",
     "javascript",
     "typescript",
-    "paste"
+    "paste",
+    "reactjs",
+    "react"
   ],
   "babel": {
     "presets": [
       "@babel/preset-react"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saqy/reactjs-copy-to-clipboard.git"
   },
   "eslintConfig": {
     "extends": "react-app"
