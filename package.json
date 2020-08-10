@@ -1,6 +1,6 @@
 {
   "name": "reactjs-copy-to-clipboard",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": false,
   "files": [
     "dist/*"
@@ -58,6 +58,7 @@
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/preset-react": "^7.10.4",
-    "babel-cli": "^6.26.0"
+    "babel-cli": "^6.26.0",
+    "js-copy-to-clipboard": "0.0.4"
   }
 }
